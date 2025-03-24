@@ -1,2 +1,3 @@
 # Python
-estudos pessoais de python, com curso da udemy
+estudos pessoais de python com curso da udemy.
+
